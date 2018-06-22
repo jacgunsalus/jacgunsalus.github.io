@@ -1,0 +1,51 @@
+a:hover { 
+    color: DodgerBlue;
+}
+button {
+    height: 4%;
+    width: 6%;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 3px gray;
+    text-align: center;
+    background-color: SteelBlue;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    margin-top: 0px;
+    font-size: 60px
+   
+}
+
+button:hover {
+    cursor: pointer;
+    color: Black;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.10);
+}
+
+label {
+    margin-left: 15px;
+}
+
+
+body {
+    background-color: NavajoWhite;
+    outline-style: double;
+    outline-width: thick;
+}
+
+hr { 
+    /*display: block;*/
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-width: 1px;
+}
+
+
+
